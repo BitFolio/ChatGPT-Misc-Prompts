@@ -40,3 +40,8 @@ git push origin <your_new_branch_name>
 Finally, create a pull request to merge your changes into the original repository. To do this, go to your forked repository's GitHub page and click the "New pull request" button. Follow the instructions to submit your pull request.
 
 We appreciate your contributions to our project and will review your pull request as soon as possible. Thank you!
+
+Other prompt resources:
+https://prompts.chat/
+https://github.com/f/awesome-chatgpt-prompts
+
