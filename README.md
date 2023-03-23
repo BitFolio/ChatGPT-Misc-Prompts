@@ -5,7 +5,7 @@ Welcome to the "ChatGPT Misc Prompts" repository! This is a collection of prompt
 
 The ChatGPT model is a large language model trained by OpenAI that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
-In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to add your own prompts to the list, and to use ChatGPT to generate new prompts as well.
+In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to add your own prompts to the list and to modify or improve the existing prompts.
 
 # How to Contribute
 We welcome contributions to our open source project! Here's how you can get started:
