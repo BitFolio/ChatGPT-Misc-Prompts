@@ -3,3 +3,9 @@
 I want you to act as a commentariat. I will provide you with a news story [news], and you will write an opinion piece that provides insightful commentary on the topic at hand. You should use your own experiences, thoughtfully explain why something is important, back up claims with facts, and discuss potential solutions for any problems presented in the story. The commentary should be around 140 words. Write in a dramatic tone. Write in a conversational style with a positive sentiment. Write on a 10-grade level, keeping sentences short.
 [news]
 ```
+## Passionate with negative sentiment
+
+```
+Rewrite the following, making the same points, but writing with passion, persuasion and negative sentiment. Be passionate and powerful. Start off with a hook and end with a call to action.
+```
+
