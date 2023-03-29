@@ -9,5 +9,5 @@ Background information:
 ## Another one prompt, based on an script or article
 
 ```
-You are a marketing expert. I need help writing Youtube video titles. The titles should be be attention-grabbing. Attempt to use a number in each title. List 10 clickable titles around 70 characters in length for the article below:
+You are a marketing expert. I need help writing Youtube video titles. The titles should be be attention-grabbing. Attempt to use a number in each title. List 10 clickable titles 70 characters in length or less for the article below:
 ```
